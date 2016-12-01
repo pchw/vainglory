@@ -1,0 +1,22 @@
+{
+  "name": "vainglory",
+  "version": "0.0.1",
+  "description": "vainglory api client",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pchw/vainglory.git"
+  },
+  "keywords": [
+    "vainglory"
+  ],
+  "author": "pchw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pchw/vainglory/issues"
+  },
+  "homepage": "https://github.com/pchw/vainglory#readme"
+}
