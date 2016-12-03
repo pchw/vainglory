@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/pchw/vainglory/issues"
   },
-  "homepage": "https://github.com/pchw/vainglory#readme"
+  "homepage": "https://github.com/pchw/vainglory#readme",
+  "dependencies": {
+    "axios": "^0.15.3"
+  }
 }
